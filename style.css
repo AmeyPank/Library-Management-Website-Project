@@ -1,0 +1,23 @@
+
+
+.form label{
+    color: white;
+    font-family: inter;
+}
+.form input{
+    background-color: black;
+    color: #000;
+    border: 1px solid white;
+    border-radius: 0%;
+    font-family: inter;
+}
+.form button{
+    margin-top: 10px;
+    border-radius: 0%;
+    font-family: inter
+}
+.form table{
+    color: white;
+    margin-top: 50px;
+    font-family: inter;
+}
